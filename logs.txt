@@ -1,0 +1,7 @@
+PS C:\Users\Moreira\Documents\Curso ONE - 2025\Fundamentos - Parte 1\Lógica de programação explore funções e listas\js-curso-2> git log
+commit e6f45d6c0556f4c36d746c1ace9ffdf6e3182974 (HEAD -> main)
+Author: Rafael Moreira <rafael.castro13@hotmail.com>
+Date:   Sun Jan 26 15:21:42 2025 +0100
+
+    teste deletado
+:
